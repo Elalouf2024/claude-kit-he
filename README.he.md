@@ -22,7 +22,7 @@
 ב־Claude Code, בטרמינל:
 
 ```
-/plugin marketplace add Elalouf2024/claude-kit
+/plugin marketplace add Elalouf2024/claude-kit-he
 /plugin install savvy-progress@claude-kit-he
 /plugin install savvy-flow@claude-kit-he
 ```
