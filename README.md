@@ -22,12 +22,11 @@
 ב־Claude Code, בטרמינל:
 
 ```
-/plugin marketplace add Elalouf2024/claude-kit-he
-/plugin install savvy-progress@claude-kit-he
-/plugin install savvy-flow@claude-kit-he
+/plugin install savvy-progress --marketplace Elalouf2024/claude-kit-he
+/plugin install savvy-flow --marketplace Elalouf2024/claude-kit-he
 ```
 
-אחר כך פותחים שיחה חדשה. `/agents-info` פותח וסוגר את חלונית הסוכנים.
+בשאלה שתופיע עונים `y` ובוחרים היקף התקנה (מומלץ: user, לכל השיחות). אחר כך פותחים שיחה חדשה. `/agents-info` פותח וסוגר את חלונית הסוכנים.
 
 ## מה השתנה לעומת המקור
 
