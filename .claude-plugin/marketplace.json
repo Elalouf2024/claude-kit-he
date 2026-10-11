@@ -1,7 +1,12 @@
 {
-  "name": "claude-kit",
-  "owner": { "name": "johnnyvizz", "url": "https://github.com/johnnyvizz" },
-  "metadata": { "description": "johnnyvizz's public Claude Code skills and mods." },
+  "name": "claude-kit-he",
+  "owner": {
+    "name": "Elalouf2024",
+    "url": "https://github.com/Elalouf2024"
+  },
+  "metadata": {
+    "description": "Hebrew, right-to-left edition of johnnyvizz's claude-kit (savvy-flow + savvy-progress)."
+  },
   "plugins": [
     {
       "name": "savvy-flow",

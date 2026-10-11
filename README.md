@@ -1,5 +1,7 @@
 # claude-kit
 
+> **Hebrew edition:** this fork adds a full Hebrew, right-to-left savvy-progress. See [README.he.md](README.he.md). Original project: [johnnyvizz/claude-kit](https://github.com/johnnyvizz/claude-kit).
+
 My public skills and mods for [Claude Code](https://claude.com/claude-code), in one place. Every item is a standalone plugin under `plugins/`: install only what you need.
 
 | Plugin | Type | What it does |
